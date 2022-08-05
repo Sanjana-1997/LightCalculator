@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_bg">#f3f4f6</color>
+    <color name="btn_txt">#3a627e</color>
+    <color name="ac_btn">#feb92d</color>
+    <color name="spl_btn_bg">#e1d5e9</color>
+    <color name="spl_btn_txt">#500c7c</color>
+    <color name="eql_btn_bg">#9028e0</color>
+    <color name="eql_btn_txt">#fefeff</color>
+
+    <color name="result_txt">#5c6367</color>
+    <color name="light_bg1">#fafafa</color>
+    <color name="light_bg2">#e8ecef</color>
+    <color name="white">#fff</color>
+    <color name="black">#121111</color>
+</resources>
